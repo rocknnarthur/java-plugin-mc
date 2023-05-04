@@ -1,0 +1,13 @@
+name: SurvivalPlugin
+version: ${project.version}
+main: fr.art333.survivalplugin.SurvivalPlugin
+api-version: 1.16
+authors: [ Art333 ]
+description: Plugin use to manage the survival world and others
+commands:
+  quitSurvival:
+    description: Use to quit the survival world
+    usage: /<command>
+  joinSurvival:
+    description: Use to join the survival world
+    usage: /<command>

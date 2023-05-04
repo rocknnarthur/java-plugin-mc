@@ -1,0 +1,6 @@
+name: ScoreboardPlugin
+version: ${project.version}
+main: fr.art333.scoreboardplugin.ScoreboardPlugin
+api-version: 1.16
+authors: [ Art333 ]
+description: Plugin use to get scoreboard on the server

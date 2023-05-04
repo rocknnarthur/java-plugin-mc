@@ -1,0 +1,9 @@
+name: CommandSpawnPlugin
+version: ${project.version}
+main: fr.art333.commandspawnplugin.CommandSpawnPlugin
+api-version: 1.16
+authors: [ Art333 ]
+description: Plugin use to get the /spawn command
+commands:
+  spawn:
+    description: Teleport you to the Spawn

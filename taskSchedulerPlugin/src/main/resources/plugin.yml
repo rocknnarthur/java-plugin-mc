@@ -1,0 +1,6 @@
+name: TaskSchedulerPlugin
+version: ${project.version}
+main: fr.art333.taskschedulerplugin.TaskSchedulerPlugin
+api-version: 1.16
+authors: [ Art333 ]
+description: Plugin use to schedule some tasks in the server

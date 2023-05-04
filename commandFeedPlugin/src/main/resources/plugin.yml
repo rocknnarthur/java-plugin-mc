@@ -1,0 +1,10 @@
+name: CommandFeedPlugin
+version: ${project.version}
+main: fr.art333.commandfeedplugin.CommandFeedPlugin
+api-version: 1.16
+authors: [ Art333 ]
+description: Plugin use to feed your-self with a command
+commands:
+  feed:
+    description: Use it to feed your-self
+    usage: /<command>

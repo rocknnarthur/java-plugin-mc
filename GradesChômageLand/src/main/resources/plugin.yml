@@ -1,0 +1,8 @@
+name: GradesPlugin
+version: ${project.version}
+main: stunrayn.cl.Grades
+api-version: 1.16
+commands:
+  grade:
+    description: Use to change grade of players
+    usage: /<command>

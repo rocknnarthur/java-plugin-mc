@@ -1,0 +1,6 @@
+name: JoinLeavePlugin
+version: ${project.version}
+main: fr.stunrayn.joinleaveplugin.JoinLeavePlugin
+api-version: 1.16
+authors: [ Stunrayn ]
+description: Plugin use to get join & leave messages from a player on the server tchat
